@@ -1,0 +1,2 @@
+folder: ['CLAUDE.md']
+instruction files found: ['~\\lab\\solidcraft-fit-edits-lab\\out\\runs\\claudemd-3\\edit-0\\work\\CLAUDE.md', '~/.claude/CLAUDE.md (user level: excluded by claudeMdExcludes)']

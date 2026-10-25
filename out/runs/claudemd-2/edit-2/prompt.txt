@@ -1,0 +1,1 @@
+Use the solidcraft MCP tools. Open /lab/work/fit.solidcraft. Add a third peg in the middle of the block, between the other two. Save the design to /lab/work/fit.solidcraft.

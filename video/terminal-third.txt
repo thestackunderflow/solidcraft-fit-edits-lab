@@ -1,0 +1,5 @@
+the third hole, 9 runs:
+  5 of 9: its own cut, 5 mm deep
+  edit 3, plate 5 -> 8 mm:
+    3 deepened that cut to 8 mm
+    2 didn't: it stops 3 mm short

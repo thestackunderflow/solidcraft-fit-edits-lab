@@ -1,0 +1,508 @@
+{
+ "runs": [
+  {
+   "run": "claudemd-1",
+   "edits": [
+    {
+     "edit": 0,
+     "pass": true,
+     "why": "pass",
+     "gaps": [
+      0.2039,
+      0.2039
+     ],
+     "fit_gap": {
+      "expression": "0.2",
+      "value": 0.2
+     }
+    },
+    {
+     "edit": 1,
+     "pass": true,
+     "why": "pass",
+     "gaps": [
+      0.2032,
+      0.2032
+     ],
+     "fit_gap": {
+      "expression": "0.2",
+      "value": 0.2
+     }
+    },
+    {
+     "edit": 2,
+     "pass": true,
+     "why": "pass",
+     "gaps": [
+      0.2032,
+      0.2032,
+      0.2032
+     ],
+     "fit_gap": {
+      "expression": "0.2",
+      "value": 0.2
+     }
+    },
+    {
+     "edit": 3,
+     "pass": false,
+     "why": "holes not through",
+     "gaps": [
+      0.2032,
+      0.2032,
+      0.2008
+     ],
+     "fit_gap": {
+      "expression": "0.2",
+      "value": 0.2
+     }
+    }
+   ],
+   "kept_through_all": false
+  },
+  {
+   "run": "claudemd-2",
+   "edits": [
+    {
+     "edit": 0,
+     "pass": true,
+     "why": "pass",
+     "gaps": [
+      0.2039,
+      0.2039
+     ],
+     "fit_gap": {
+      "expression": "0.2",
+      "value": 0.2
+     }
+    },
+    {
+     "edit": 1,
+     "pass": true,
+     "why": "pass",
+     "gaps": [
+      0.2032,
+      0.2032
+     ],
+     "fit_gap": {
+      "expression": "0.2",
+      "value": 0.2
+     }
+    },
+    {
+     "edit": 2,
+     "pass": true,
+     "why": "pass",
+     "gaps": [
+      0.2032,
+      0.2032,
+      0.2032
+     ],
+     "fit_gap": {
+      "expression": "0.2",
+      "value": 0.2
+     }
+    },
+    {
+     "edit": 3,
+     "pass": true,
+     "why": "pass",
+     "gaps": [
+      0.2032,
+      0.2032,
+      0.2032
+     ],
+     "fit_gap": {
+      "expression": "0.2",
+      "value": 0.2
+     }
+    }
+   ],
+   "kept_through_all": true
+  },
+  {
+   "run": "claudemd-3",
+   "edits": [
+    {
+     "edit": 0,
+     "pass": true,
+     "why": "pass",
+     "gaps": [
+      0.2039,
+      0.2039
+     ],
+     "fit_gap": {
+      "expression": "0.2 mm",
+      "value": 0.2
+     }
+    },
+    {
+     "edit": 1,
+     "pass": true,
+     "why": "pass",
+     "gaps": [
+      0.2032,
+      0.2032
+     ],
+     "fit_gap": {
+      "expression": "0.2 mm",
+      "value": 0.2
+     }
+    },
+    {
+     "edit": 2,
+     "pass": true,
+     "why": "pass",
+     "gaps": [
+      0.2032,
+      0.2032,
+      0.2032
+     ],
+     "fit_gap": {
+      "expression": "0.2 mm",
+      "value": 0.2
+     }
+    },
+    {
+     "edit": 3,
+     "pass": false,
+     "why": "holes not through",
+     "gaps": [
+      0.2032,
+      0.2032,
+      0.2008
+     ],
+     "fit_gap": {
+      "expression": "0.2 mm",
+      "value": 0.2
+     }
+    }
+   ],
+   "kept_through_all": false
+  },
+  {
+   "run": "named-1",
+   "edits": [
+    {
+     "edit": 0,
+     "pass": true,
+     "why": "pass",
+     "gaps": [
+      0.2039,
+      0.2039
+     ],
+     "fit_gap": {
+      "expression": "0.2",
+      "value": 0.2
+     }
+    },
+    {
+     "edit": 1,
+     "pass": true,
+     "why": "pass",
+     "gaps": [
+      0.2032,
+      0.2032
+     ],
+     "fit_gap": {
+      "expression": "0.2",
+      "value": 0.2
+     }
+    },
+    {
+     "edit": 2,
+     "pass": true,
+     "why": "pass",
+     "gaps": [
+      0.2032,
+      0.2032,
+      0.2032
+     ],
+     "fit_gap": {
+      "expression": "0.2",
+      "value": 0.2
+     }
+    },
+    {
+     "edit": 3,
+     "pass": true,
+     "why": "pass",
+     "gaps": [
+      0.2032,
+      0.2032,
+      0.2032
+     ],
+     "fit_gap": {
+      "expression": "0.2",
+      "value": 0.2
+     }
+    }
+   ],
+   "kept_through_all": true
+  },
+  {
+   "run": "named-2",
+   "edits": [
+    {
+     "edit": 0,
+     "pass": true,
+     "why": "pass",
+     "gaps": [
+      0.2039,
+      0.2039
+     ],
+     "fit_gap": {
+      "expression": "0.2 mm",
+      "value": 0.2
+     }
+    },
+    {
+     "edit": 1,
+     "pass": true,
+     "why": "pass",
+     "gaps": [
+      0.2032,
+      0.2032
+     ],
+     "fit_gap": {
+      "expression": "0.2 mm",
+      "value": 0.2
+     }
+    },
+    {
+     "edit": 2,
+     "pass": true,
+     "why": "pass",
+     "gaps": [
+      0.2032,
+      0.2032,
+      0.2032
+     ],
+     "fit_gap": {
+      "expression": "0.2 mm",
+      "value": 0.2
+     }
+    },
+    {
+     "edit": 3,
+     "pass": true,
+     "why": "pass",
+     "gaps": [
+      0.2032,
+      0.2032,
+      0.2032
+     ],
+     "fit_gap": {
+      "expression": "0.2 mm",
+      "value": 0.2
+     }
+    }
+   ],
+   "kept_through_all": true
+  },
+  {
+   "run": "named-3",
+   "edits": [
+    {
+     "edit": 0,
+     "pass": true,
+     "why": "pass",
+     "gaps": [
+      0.2039,
+      0.2039
+     ],
+     "fit_gap": {
+      "expression": "0.2",
+      "value": 0.2
+     }
+    },
+    {
+     "edit": 1,
+     "pass": true,
+     "why": "pass",
+     "gaps": [
+      0.2032,
+      0.2032
+     ],
+     "fit_gap": {
+      "expression": "0.2",
+      "value": 0.2
+     }
+    },
+    {
+     "edit": 2,
+     "pass": true,
+     "why": "pass",
+     "gaps": [
+      0.2032,
+      0.2032,
+      0.2032
+     ],
+     "fit_gap": {
+      "expression": "0.2",
+      "value": 0.2
+     }
+    },
+    {
+     "edit": 3,
+     "pass": true,
+     "why": "pass",
+     "gaps": [
+      0.2032,
+      0.2032,
+      0.2032
+     ],
+     "fit_gap": {
+      "expression": "0.2",
+      "value": 0.2
+     }
+    }
+   ],
+   "kept_through_all": true
+  },
+  {
+   "run": "once-1",
+   "edits": [
+    {
+     "edit": 0,
+     "pass": true,
+     "why": "pass",
+     "gaps": [
+      0.2039,
+      0.2039
+     ],
+     "fit_gap": null
+    },
+    {
+     "edit": 1,
+     "pass": true,
+     "why": "pass",
+     "gaps": [
+      0.2032,
+      0.2032
+     ],
+     "fit_gap": null
+    },
+    {
+     "edit": 2,
+     "pass": true,
+     "why": "pass",
+     "gaps": [
+      0.2032,
+      0.2032,
+      0.2032
+     ],
+     "fit_gap": null
+    },
+    {
+     "edit": 3,
+     "pass": true,
+     "why": "pass",
+     "gaps": [
+      0.2032,
+      0.2032,
+      0.2032
+     ],
+     "fit_gap": null
+    }
+   ],
+   "kept_through_all": true
+  },
+  {
+   "run": "once-2",
+   "edits": [
+    {
+     "edit": 0,
+     "pass": true,
+     "why": "pass",
+     "gaps": [
+      0.2039,
+      0.2039
+     ],
+     "fit_gap": null
+    },
+    {
+     "edit": 1,
+     "pass": true,
+     "why": "pass",
+     "gaps": [
+      0.2032,
+      0.2032
+     ],
+     "fit_gap": null
+    },
+    {
+     "edit": 2,
+     "pass": true,
+     "why": "pass",
+     "gaps": [
+      0.2032,
+      0.2032,
+      0.2032
+     ],
+     "fit_gap": null
+    },
+    {
+     "edit": 3,
+     "pass": true,
+     "why": "pass",
+     "gaps": [
+      0.2032,
+      0.2032,
+      0.2032
+     ],
+     "fit_gap": null
+    }
+   ],
+   "kept_through_all": true
+  },
+  {
+   "run": "once-3",
+   "edits": [
+    {
+     "edit": 0,
+     "pass": true,
+     "why": "pass",
+     "gaps": [
+      0.2039,
+      0.2039
+     ],
+     "fit_gap": null
+    },
+    {
+     "edit": 1,
+     "pass": true,
+     "why": "pass",
+     "gaps": [
+      0.2032,
+      0.2032
+     ],
+     "fit_gap": null
+    },
+    {
+     "edit": 2,
+     "pass": true,
+     "why": "pass",
+     "gaps": [
+      0.2032,
+      0.2032,
+      0.2032
+     ],
+     "fit_gap": null
+    },
+    {
+     "edit": 3,
+     "pass": true,
+     "why": "pass",
+     "gaps": [
+      0.2032,
+      0.2032,
+      0.2032
+     ],
+     "fit_gap": null
+    }
+   ],
+   "kept_through_all": true
+  }
+ ]
+}

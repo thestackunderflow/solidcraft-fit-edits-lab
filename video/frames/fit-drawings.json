@@ -1,0 +1,119 @@
+[
+ {
+  "name": "fit-edit3-blind",
+  "window_mm": [
+   -2,
+   82,
+   -1,
+   14
+  ],
+  "size_px": [
+   1600,
+   286
+  ]
+ },
+ {
+  "name": "fit-edit3-through",
+  "window_mm": [
+   -2,
+   82,
+   -1,
+   14
+  ],
+  "size_px": [
+   1600,
+   286
+  ]
+ },
+ {
+  "name": "fit-gap-zoom",
+  "window_mm": [
+   16.0,
+   24.0,
+   3.0,
+   10.0
+  ],
+  "size_px": [
+   1600,
+   1400
+  ]
+ },
+ {
+  "name": "fit-once1-edit0",
+  "window_mm": [
+   -2,
+   82,
+   -1,
+   14
+  ],
+  "size_px": [
+   1600,
+   286
+  ]
+ },
+ {
+  "name": "fit-once1-edit1",
+  "window_mm": [
+   -2,
+   82,
+   -1,
+   14
+  ],
+  "size_px": [
+   1600,
+   286
+  ]
+ },
+ {
+  "name": "fit-once1-edit2",
+  "window_mm": [
+   -2,
+   82,
+   -1,
+   14
+  ],
+  "size_px": [
+   1600,
+   286
+  ]
+ },
+ {
+  "name": "fit-once1-edit3",
+  "window_mm": [
+   -2,
+   82,
+   -1,
+   14
+  ],
+  "size_px": [
+   1600,
+   286
+  ]
+ },
+ {
+  "name": "fit-edit3-blind-red",
+  "window_mm": [
+   -2,
+   82,
+   -1,
+   14
+  ],
+  "size_px": [
+   1600,
+   286
+  ]
+ },
+ {
+  "name": "fit-cut-zoom",
+  "window_mm": [
+   14,
+   66,
+   -1,
+   14
+  ],
+  "size_px": [
+   1600,
+   462
+  ]
+ }
+]

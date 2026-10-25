@@ -1,0 +1,6 @@
+after edit 3, claudemd-1 (cut open):
+  holes 6.40, pegs 6.0: 0.20 each side
+  outer holes go through the 8 mm plate
+  the middle one: 5 mm deep, then plastic
+Claude: "every hole keeps its 0.2 mm
+  gap per side"

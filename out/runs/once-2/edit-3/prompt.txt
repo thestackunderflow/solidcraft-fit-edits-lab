@@ -1,0 +1,1 @@
+Use the solidcraft MCP tools. Open /lab/work/fit.solidcraft. Make the plate 8 mm thick. Save the design to /lab/work/fit.solidcraft.

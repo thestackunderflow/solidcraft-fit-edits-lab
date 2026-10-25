@@ -1,0 +1,87 @@
+{
+ "edit": 3,
+ "open": {
+  "errors": 0,
+  "features": 10,
+  "name": "fit",
+  "path": "/lab/out/edit-3/work/fit.solidcraft"
+ },
+ "bodies": [
+  {
+   "name": "PegBlock",
+   "bbox": {
+    "max": [
+     40.0,
+     15.0,
+     9.000000000000004
+    ],
+    "min": [
+     -40.0,
+     -15.0,
+     0.0
+    ]
+   },
+   "volume_mm3": 10024.044561168464
+  },
+  {
+   "name": "Plate",
+   "bbox": {
+    "max": [
+     40.0,
+     15.0,
+     12.000000000000007
+    ],
+    "min": [
+     -40.0,
+     -15.0,
+     3.9999999999999982
+    ]
+   },
+   "volume_mm3": 18524.544130121183
+  }
+ ],
+ "parameters": {
+  "fit_gap": {
+   "expression": "0.2 mm",
+   "value": 0.2
+  },
+  "peg_d": {
+   "expression": "6",
+   "value": 6.0
+  }
+ },
+ "plate": "Plate",
+ "block": "PegBlock",
+ "plate_z": [
+  3.9999999999999982,
+  12.000000000000007
+ ],
+ "pairs": [
+  {
+   "hole_d": 6.4,
+   "peg_d": 5.9935,
+   "gap_each_side": 0.2032,
+   "offset": 0.0,
+   "worst_side": 0.2032
+  },
+  {
+   "hole_d": 6.4,
+   "peg_d": 5.9935,
+   "gap_each_side": 0.2032,
+   "offset": 0.0,
+   "worst_side": 0.2032
+  },
+  {
+   "hole_d": 6.3951,
+   "peg_d": 5.9935,
+   "gap_each_side": 0.2008,
+   "offset": 0.0,
+   "worst_side": 0.2008
+  }
+ ],
+ "holes_through": false,
+ "engagement_mm": 5.0,
+ "pass": false,
+ "why": "holes not through",
+ "pegs_expected_d": 6.0
+}

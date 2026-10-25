@@ -1,0 +1,5 @@
+3 ways x 3 runs x 3 edits = 27 edits:
+  gap 0.20 mm each side: 27 of 27
+  told once:      9 of 9 edits
+  named size:     9 of 9 edits
+  CLAUDE.md note: 9 of 9 edits
